@@ -1,0 +1,73 @@
+{
+  "_from": "cordova-plugin-sim",
+  "_id": "cordova-plugin-sim@1.3.3",
+  "_inBundle": false,
+  "_integrity": "sha1-QoZjMHfYhX5kVP4GmHB9CMaK2Ik=",
+  "_location": "/cordova-plugin-sim",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-sim",
+    "name": "cordova-plugin-sim",
+    "escapedName": "cordova-plugin-sim",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/cordova-plugin-sim/download/cordova-plugin-sim-1.3.3.tgz",
+  "_shasum": "4286633077d8857e6454fe0698707d08c68ad889",
+  "_spec": "cordova-plugin-sim",
+  "_where": "F:\\workspace\\callpolice",
+  "author": {
+    "name": "Peter Bakondy"
+  },
+  "bugs": {
+    "url": "https://github.com/pbakondy/cordova-plugin-sim/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-sim",
+    "platforms": [
+      "android",
+      "ios",
+      "wp7",
+      "wp8",
+      "windows"
+    ]
+  },
+  "deprecated": false,
+  "description": "A plugin to get the device's SIM data (carrier name, mcc mnc, country code, telephonenumber, imei, etc)",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "homepage": "https://github.com/pbakondy/cordova-plugin-sim#readme",
+  "keywords": [
+    "cordova",
+    "sim",
+    "uicc",
+    "carrier",
+    "mcc",
+    "mnc",
+    "telephonenumber",
+    "imei",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-windows"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-sim",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbakondy/cordova-plugin-sim.git"
+  },
+  "version": "1.3.3"
+}
